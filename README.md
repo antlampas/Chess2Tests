@@ -1,4 +1,4 @@
-[![Analyze and build](https://github.com/antlampas/Chess2Tests/actions/workflows/analyzeAndBuild.yml/badge.svg)](https://github.com/antlampas/Chess2Tests/actions/workflows/analyzeAndBuild.yml)
+[![Test](https://github.com/antlampas/Chess2Tests/actions/workflows/runTests.yml/badge.svg)]
 
 C++ unit testing excercises with Catch2
 
